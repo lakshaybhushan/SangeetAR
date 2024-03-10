@@ -12,7 +12,10 @@
 <br>
 
 <p align="center">
+  
+<a href="https://bit.ly/SangeetAR" target="_blank" rel="noopener noreferrer">
 <img src ="https://github.com/lakshaybhushan/Sangeet-AR/assets/74349407/1638e3f8-1d70-4056-8475-05dbbe9c2cec" width="600">
+</a>
 
 </p>
 
@@ -49,5 +52,5 @@ Enjoy the magic of classical Indian music brought to life through augmented real
 
 ## Project Files
 - **Demo Video:** https://youtu.be/UUxPspq_hNQ
-- **AR Cards:** https://bit.ly/3RsLYIr
-- **Source Code:** 
+- **AR Cards:** https://bit.ly/SangeetAR-Cards
+- **Source Code:** https://bit.ly/SangeetAR
