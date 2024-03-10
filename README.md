@@ -48,8 +48,6 @@ Enjoy the magic of classical Indian music brought to life through augmented real
 
 </p>
 
-<br>
-
 ## Project Files
 - **Demo Video:** https://youtu.be/UUxPspq_hNQ
 - **AR Cards:** https://bit.ly/SangeetAR-Cards
